@@ -9,5 +9,5 @@ Follow us: [Facebook](https://www.facebook.com/utmcyberx/), [Instagram](https://
 ```
 tar -czf file.tar --exclude file.tar .
 ```
-[© Codrops 2022](https://www.utmcyberx.tech)
+[© CyberX 2022](https://www.utmcyberx.tech)
 
